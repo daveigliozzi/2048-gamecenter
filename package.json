@@ -1,0 +1,27 @@
+{
+  "name": "2048-gamecenter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daveigliozzi/2048-gamecenter.git"
+  },
+  "author": "Dave Igliozzi",
+  "license": "Tufts",
+  "bugs": {
+    "url": "https://github.com/daveigliozzi/2048-gamecenter/issues"
+  },
+  "homepage": "https://github.com/daveigliozzi/2048-gamecenter",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
